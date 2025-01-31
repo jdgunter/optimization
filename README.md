@@ -1,0 +1,1 @@
+To compile, first run `export GUROBI_PATH=/path/to/your/gurobi/installation/`, then run `make <name>` for the source file you'd like to build.
